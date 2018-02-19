@@ -24,6 +24,5 @@ public class ClassGenericMethod {
 		} else
 			 return null;		
 	}
-	
 
 }
